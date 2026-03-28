@@ -5,6 +5,11 @@ backend/build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+application-secret.properties
+.env
+*.p12
+*.jks
+
 ### STS ###
 .apt_generated
 .classpath
